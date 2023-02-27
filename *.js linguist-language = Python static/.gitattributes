@@ -1,4 +1,0 @@
-*.js linguist-language = Java
-static/* linguist-vendored
-template/* linguist-vendored
-jquery.js linguist-vendored=false
